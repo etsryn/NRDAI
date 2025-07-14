@@ -133,4 +133,4 @@ streamlit run app.py
 B.Tech CSE Final Year | Aspiring IIT-B M.Tech (DS/AI)
 Building data systems that serve **social justice and national awareness**.
 
-Connect: [LinkedIn](https://www.linkedin.com/in/rayyan-ashraf/) | [GitHub](https://github.com/RayyanAshraf) | [Email](mailto:rayyanashraf99@gmail.com)
+Connect: [LinkedIn](https://www.linkedin.com/in/rayyan-ashraf/) | [Email](mailto:ryshashraf@gmail.com)
